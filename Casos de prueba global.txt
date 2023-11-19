@@ -1,0 +1,37 @@
+Casos de prueba
+es mutante:
+prueba1:
+
+ttgcac
+caagta
+gtacga
+caattg
+ccagcc
+attttc
+
+prueba2: 
+atgcga
+cagtgc
+ttatgt
+agaagg
+ccccta
+tcactg
+
+no es mutante:
+prueba1:
+
+atgcga
+cagtgc
+ttattt
+agacgg
+gcgtca
+tcactg
+
+prueba2:
+
+aaattt
+cccggg
+actggc
+tagcaa
+gtaact
+cccggg
